@@ -55,6 +55,8 @@ const App = () => {
 
       <MenuCart myData = {menuData}/> 
 
+
+
       <Footer /> 
     </>
   )
